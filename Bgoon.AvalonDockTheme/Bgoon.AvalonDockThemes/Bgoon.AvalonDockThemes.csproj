@@ -32,7 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AvalonDock, Version=4.20.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\TaleKit\packages\Dirkster.AvalonDock.4.20.0\lib\net40\AvalonDock.dll</HintPath>
+      <HintPath>$(SolutionDir)packages\Dirkster.AvalonDock.4.20.0\lib\net40\AvalonDock.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
