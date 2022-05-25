@@ -1,11 +1,11 @@
 ﻿using System;
 using AvalonDock.Themes;
 
-namespace Bgoon.AvalonDockTheme {
+namespace TTOOWA.AvalonDockTheme {
 	public class FlatDarkTheme : Theme {
 
 		public override Uri GetResourceUri() {
-				return ResourceUtility.GetUri("Bgoon.AvalonDockThemes", "Styles/FlatDark/FlatDark.xaml");
+			return ResourceUtility.GetUri("TTOOWA.AvalonDockThemes", "Styles/FlatDark/FlatDark.xaml");
 		}
 	}
 }

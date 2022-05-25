@@ -7,8 +7,8 @@
     <ProjectGuid>{EE497432-AEAF-4099-82C3-3764376171D4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Bgoon.AvalonDockThemes</RootNamespace>
-    <AssemblyName>Bgoon.AvalonDockThemes</AssemblyName>
+    <RootNamespace>TTOOWA.AvalonDockThemes</RootNamespace>
+    <AssemblyName>TTOOWA.AvalonDockThemes</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
