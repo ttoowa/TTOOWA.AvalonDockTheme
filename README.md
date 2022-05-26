@@ -1,4 +1,7 @@
 # TTOOWA.AvalonDockTheme
+
+![State badge](https://i.imgur.com/G4YiiaG.png)
+
 ## Summary
 AvalonDock's DarkMode theme using black and orange point colors.
 
